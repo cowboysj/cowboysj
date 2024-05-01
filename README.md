@@ -26,3 +26,12 @@
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=cowboysj0&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
 </picture>
 
+
+✨ Experiences & Awards 
+KHUDA(KyungHee Univ. Data Analysis Club) 2th Crew 2022.08 ~ 2023.02
+UMC of KyungHee Univ. WEB Crew 2023.03 ~ 2023.08
+UMC of KyungHee Univ. WEB Lead 2023.09 ~ 2024.02
+KHUTHON(KyungHee Univ. hackathon Excellence Prize 2023.11
+SW Membership OpenSouce Team crew, KyungHee Univ. 2024.03 ~ now
+ACC(AWS Cloud Club) 2nd Crew of KyungHee Univ. 2024.03 ~ now
+
