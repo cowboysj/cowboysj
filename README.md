@@ -27,11 +27,11 @@
 </picture>
 
 
-✨ Experiences & Awards 
-KHUDA(KyungHee Univ. Data Analysis Club) 2th Crew 2022.08 ~ 2023.02
-UMC of KyungHee Univ. WEB Crew 2023.03 ~ 2023.08
-UMC of KyungHee Univ. WEB Lead 2023.09 ~ 2024.02
-KHUTHON(KyungHee Univ. hackathon Excellence Prize 2023.11
-SW Membership OpenSouce Team crew, KyungHee Univ. 2024.03 ~ now
-ACC(AWS Cloud Club) 2nd Crew of KyungHee Univ. 2024.03 ~ now
+### ✨Experiences & Awards 
+KHUDA(KyungHee Univ. Data Analysis Club) 2th Crew <sub>2022.08 ~ 2023.02 </sub>  
+UMC of KyungHee Univ. WEB Crew  <sub>2023.03 ~ 2023.08 </sub>  
+UMC of KyungHee Univ. WEB Lead  <sub>2023.09 ~ 2024.02 </sub>  
+KHUTHON(KyungHee Univ. hackathon Excellence Prize <sub>2023.11  </sub>  
+SW Membership OpenSouce Team crew, KyungHee Univ.  <sub>2024.03 ~ now </sub>  
+ACC(AWS Cloud Club) 2nd Crew of KyungHee Univ.  <sub>2024.03 ~ now </sub>  
 
