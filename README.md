@@ -11,7 +11,7 @@
 ### ✨Experiences & Awards 
 - KHUDA(KyungHee Univ. Data Analysis Club) 2nd Crew <sub>2022.08 ~ 2023.02 </sub>  
 - UMC of KyungHee Univ. 4th WEB Crew  <sub>2023.03 ~ 2023.08 </sub>  
-- UMC of KyungHee Univ. 4th WEB Lead  <sub>2023.09 ~ 2024.02 </sub>  
+- UMC of KyungHee Univ. 5th WEB Lead  <sub>2023.09 ~ 2024.02 </sub>  
 - KHUTHON(KyungHee Univ. hackathon Excellence Prize <sub>2023.11  </sub>  
 - SW Membership OpenSouce Team crew, KyungHee Univ.  <sub>2024.03 ~ now </sub>  
 - ACC(AWS Cloud Club) 2nd Crew of KyungHee Univ.  <sub>2024.03 ~ now </sub>  
