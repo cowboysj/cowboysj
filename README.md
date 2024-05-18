@@ -9,7 +9,7 @@
 
 
 ### ✨Experiences & Awards 
-- KHUDA(KyungHee Univ. Data Analysis Club) 2th Crew <sub>2022.08 ~ 2023.02 </sub>  
+- KHUDA(KyungHee Univ. Data Analysis Club) 2nd Crew <sub>2022.08 ~ 2023.02 </sub>  
 - UMC of KyungHee Univ. WEB Crew  <sub>2023.03 ~ 2023.08 </sub>  
 - UMC of KyungHee Univ. WEB Lead  <sub>2023.09 ~ 2024.02 </sub>  
 - KHUTHON(KyungHee Univ. hackathon Excellence Prize <sub>2023.11  </sub>  
