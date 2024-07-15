@@ -15,5 +15,6 @@
 - KHUTHON(KyungHee Univ. hackathon) 우수상 <sub>2023.11  </sub>
 - WRTN KHU 아이디어톤 운영진 <sub>2024.04 ~ 2024.06 </sub>
 - SW Membership OpenSouce Team crew, KyungHee Univ.  <sub>2024.03 ~ now </sub>  
-- ACC(AWS Cloud Club) 2nd Crew of KyungHee Univ.  <sub>2024.03 ~ now </sub>  
+- ACC(AWS Cloud Club) 2nd Crew of KyungHee Univ.  <sub>2024.03 ~ now </sub>
+- AUSG(AWSKRUG University Student Group) 8th Crew <sub>2024.07 ~ now </sub>
 
