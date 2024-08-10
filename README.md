@@ -11,7 +11,7 @@
 ### ✨Experiences & Awards 
 - AUSG(AWSKRUG University Student Group) 8th Crew <sub>2024.07 ~ now </sub>
 - ACC(AWS Cloud Club) 2nd Crew of KyungHee Univ.  <sub>2024.03 ~ now </sub>
-- SW Membership OpenSouce Team crew, KyungHee Univ.  <sub>2024.03 ~ now </sub>  
+- KyungHee Univ. SW Membership OpenSouce Team crew  <sub>2024.03 ~ now </sub>  
 - KHUTHON(KyungHee Univ. hackathon) 우수상 <sub>2023.11  </sub>
 - UMC of KyungHee Univ. 5th WEB Lead  <sub>2023.09 ~ 2024.02 </sub>
 - UMC of KyungHee Univ. 4th WEB Crew  <sub>2023.03 ~ 2023.08 </sub>
