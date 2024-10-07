@@ -17,11 +17,12 @@
 </div>
 
 ### ✨Experiences & Awards 
+- 1st Prize at KyungHee Univ Artistic Software <sub>2024.10.05  </sub>
 - [KUSITMS](https://github.com/kusitms-com) 30th BE Crew <sub>2024.08 ~ now </sub>
 - [AUSG(AWSKRUG University Student Group)](https://github.com/AUSG) 8th Crew <sub>2024.07 ~ now </sub>
 - [ACC(AWS Cloud Club)](https://github.com/aws-cloud-clubs) 2nd Crew of KyungHee Univ.  <sub>2024.03 ~ now </sub>
 - KyungHee Univ. SW Membership OpenSouce Team crew  <sub>2024.03 ~ now </sub>  
-- KHUTHON(KyungHee Univ. hackathon) 우수상 <sub>2023.11  </sub>
+- Excellence Award at KHUTHON (KyungHee Univ. Hackathon) <sub>2023.11  </sub>
 - UMC of KyungHee Univ. 5th WEB Lead  <sub>2023.09 ~ 2024.02 </sub>
 - UMC of KyungHee Univ. 4th WEB Crew  <sub>2023.03 ~ 2023.08 </sub>
 - [KHUDA(KyungHee Univ. Data Analysis Club)](https://github.com/khuda-data) 2nd Crew <sub>2022.08 ~ 2023.02 </sub>  
