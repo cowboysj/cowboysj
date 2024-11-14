@@ -21,6 +21,7 @@
 ### Projects
 |Project|Description|Role|Host|
 |:---:|:---:|:---:|:---:|
+|[SHOOT (진행 중)](https://github.com/GIGEDI/GIGEDI-BE)| 피그마를 쉽게 사용할 수 있는 플러그인 개발|BE|큐시즘 30기 밋업 프로젝트|
 |[핏펫 스마트커버 인슈어런스](https://github.com/FITPET-A/FITPET_BE)|펫보험 견적서 발송 자동화, 사이트 & 관리자 페이지 개발|BE|큐시즘 30기 기업 프로젝트|
 |[Simter](https://github.com/git1uv/server)| 맞춤형 심리상담 챗봇 서비스|BE|경희대 예술적인 소프트웨어 대상|
 |[당하그](https://github.com/Danghag)|회고 기반 이미지 생성 서비스|1인 프로젝트(FE,BE)|KHUDA 6기 OB Deploy 세션|
