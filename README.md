@@ -19,6 +19,7 @@
 
 
 ### Experiences & Awards 
+- [디프만(depromeet)]([https://github.com/kusitms-com](https://www.depromeet.com/)) 16기 백엔드 <sub>2025.01 ~ now </sub>
 - 경희대 예술적인 소프트웨어 웹앱부분 '대상' <sub>2024.10.05  </sub>
 - [큐시즘(KUSITMS)](https://github.com/kusitms-com) 30기 백엔드 <sub>2024.08 ~ now </sub>
 - [AUSG(AWSKRUG University Student Group)](https://github.com/AUSG) 8기 <sub>2024.07 ~ now </sub>
