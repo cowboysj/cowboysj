@@ -14,7 +14,7 @@
 </table>
 
 ### Internships
-- [다이사](https://da24.co.kr/) 엔지니어링팀 백엔드 인턴 <sub>2025.03 ~ now </sub>
+- [마켓디자이너스](https://marketdesigners.com/) [다이사](https://da24.co.kr/) 엔지니어링팀 백엔드 인턴 <sub>2025.03 ~ now </sub>
 
 
 ### Experiences
