@@ -5,7 +5,7 @@
     <td>
       <img src="https://i.pinimg.com/originals/92/5c/a0/925ca0675f42a52072ba0adbc97061c3.gif" width="140">
     </td>
-    <td>
+    <td> 
       <h2> 김수진 Sujin Kim </h2>
       <p>👩‍💻 Software Backend Developer</p> 
       <p>🏛 Kyunghee Univ. Computer Science Engineering (2022.03 ~ ing)</p>
@@ -13,6 +13,8 @@
   </tr>
 </table>
 
+### Internships
+- [다이사](https://da24.co.kr/) 엔지니어링팀 백엔드 인턴 <sub>2025.03 ~ now </sub>
 
 
 ### Experiences
