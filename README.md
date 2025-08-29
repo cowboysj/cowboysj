@@ -8,13 +8,13 @@
     <td> 
       <h2> 김수진 Sujin Kim </h2>
       <p>👩‍💻 Software Backend Developer</p> 
-      <p>🏛 Kyunghee Univ. Computer Science Engineering (2022.03 ~ ing)</p>
+      <p>🏛 Kyunghee Univ. Computer Science Engineering (2022.03 ~ )</p>
     </td>
   </tr>
 </table>
 
 ### Internships
-- [마켓디자이너스](https://marketdesigners.com/) [다이사](https://da24.co.kr/) 엔지니어링팀 백엔드 인턴 <sub>2025.03 ~ now </sub>
+- [마켓디자이너스](https://marketdesigners.com/) [다이사](https://da24.co.kr/) 엔지니어링팀 백엔드 인턴 <sub>2025.03 ~ 2025.08 </sub>
 
 
 ### Experiences
