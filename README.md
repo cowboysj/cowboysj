@@ -18,7 +18,7 @@
 
 
 ### Experiences
-- [디프만(depromeet)](https://github.com/depromeet) 16기 백엔드 <sub>2025.01 ~ now </sub>
+- [디프만(depromeet)](https://github.com/depromeet) 16기 백엔드 <sub>2025.01 ~ 2025.04 </sub>
 - [한국대학생IT경영학회(KUSITMS)](https://github.com/kusitms-com) 30기 백엔드 <sub>2024.08 ~ 2024.12 </sub>
 - [AUSG(AWSKRUG University Student Group)](https://ausg.me/) 8기 <sub>2024.07 ~ now </sub>
 - [ACC(AWS Cloud Club)](https://github.com/aws-cloud-clubs) 경희대 2기, 3기 Captain <sub>2024.03 ~ now </sub>
