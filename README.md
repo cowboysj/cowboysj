@@ -7,7 +7,6 @@
     </td>
     <td> 
       <h2> 김수진 Sujin Kim </h2>
-      <p>👩‍💻 Software Backend Developer</p> 
       <p>🏛 Kyunghee Univ. Computer Science Engineering (2022.03 ~ )</p>
     </td>
   </tr>
