@@ -7,7 +7,7 @@
     </td>
     <td> 
       <h2> 김수진 Sujin Kim </h2>
-      <p>🏛 Kyunghee Univ. Computer Science Engineering (2022.03 ~ )</p>
+      <p>🏛 Kyunghee Univ. Computer Science Engineering (2022.03 ~ 2026.02)</p>
     </td>
   </tr>
 </table>
