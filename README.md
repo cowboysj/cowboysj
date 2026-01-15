@@ -12,7 +12,8 @@
   </tr>
 </table>
 
-### Internships
+### Careers
+- [LG CNS](https://www.lgcns.com/kr) Software Engineer <sub>2026.01 ~ now </sub>
 - [마켓디자이너스](https://marketdesigners.com/) [다이사](https://da24.co.kr/) 엔지니어링팀 백엔드 인턴 <sub>2025.03 ~ 2025.08 </sub>
 
 
